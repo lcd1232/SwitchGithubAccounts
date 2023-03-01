@@ -1,0 +1,11 @@
+{
+    "name": "github-multiaccount",
+    "version": "3.3.0",
+    "description": "Chrome extension to switch between multiple accounts on Github",
+    "private": true,
+    "scripts": {
+        "archive": "cd src && zip -r ./../build.zip *"
+    },
+    "author": "lcd1232",
+    "license": "MIT"
+}

@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Account Switcher",
+  "name": "GitHub MultiAccount",
   "description": "Chrome extension to switch between multiple accounts on Github",
   "version": "3.3",
   "permissions": [
